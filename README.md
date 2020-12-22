@@ -1,6 +1,7 @@
 # Niket Mistry
 Website to share content and career information for Niket Mistry
-  
+
+## [LinkedIn](https://www.linkedin.com/in/niketkumarmistry/) | [Email](nmistry@ncsu.edu)
 * **Career**
   * Personal statement
   * Professional Experience
